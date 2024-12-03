@@ -1,14 +1,17 @@
-p.solid {border-style: solid;
+nav{
     background-color: rgb(131, 22, 25);
-color: white;
-align-self:space-between;
+    color: white;
 }
 
-p.solid1 {border-style: solid;
+a:link {
+    color: white;
 }
 
-p.solid2 {border-style: solid;
-}
+a:visited {
+    color: blue;
+  }  
 
-p.solid3 {border-style: solid;
-}
+  div{
+    background-color: black;
+    flex-direction: row;
+  }
