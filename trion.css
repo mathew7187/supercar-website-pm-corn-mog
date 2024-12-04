@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nav{
     background-color: rgb(131, 22, 25);
     color: white;
@@ -29,3 +30,9 @@ align-items: flex-start;
   }
 
   
+=======
+@import url("https://fonts.googleapis.com/css2?family=Genos:ital,wght@0,100..900;1,100..900&display=swap");
+:root{
+    font-family: Genos;
+}
+>>>>>>> c86cea6240b9c550d52222bad1a3f8aab2f87ae7
