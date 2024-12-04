@@ -1,17 +1,30 @@
+
 nav{
-    background-color: rgb(131, 22, 25);
-    color: white;
+  background-color: rgb(131, 22, 25);
+  color: white;
 }
 
 a:link {
-    color: white;
+  color: white;
 }
 
 a:visited {
-    color: blue;
-  }  
+  color: blue;
+}  
 
-  div{
-    background-color: black;
-    flex-direction: row;
-  }
+div { display: flex;
+align-items: flex-start;
+  background-color: black;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  width: 450px;
+  height: 450px;
+justify-content: space-evenly;
+}
+
+footer {display: flex;
+align-items: flex-start;
+}
