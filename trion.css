@@ -1,4 +1,17 @@
-@import url("https://fonts.googleapis.com/css2?family=Genos:ital,wght@0,100..900;1,100..900&display=swap");
-:root{
-    font-family: Genos;
+nav{
+  background-color: rgb(131, 22, 25);
+  color: white;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: blue;
+}  
+
+div{
+  background-color: black;
+  flex-direction: row;
 }
