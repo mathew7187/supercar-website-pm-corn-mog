@@ -1,17 +1,17 @@
 nav{
-    background-color: rgb(131, 22, 25);
-    color: white;
+  background-color: rgb(131, 22, 25);
+  color: white;
 }
 
 a:link {
-    color: white;
+  color: white;
 }
 
 a:visited {
-    color: blue;
-  }  
+  color: blue;
+}  
 
-  div{
-    background-color: black;
-    flex-direction: row;
-  }
+div{
+  background-color: black;
+  flex-direction: row;
+}
