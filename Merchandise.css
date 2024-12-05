@@ -1,8 +1,8 @@
-
-nav{
+nav {
   background-color: rgb(131, 22, 25);
   color: white;
 }
+
 
 a:link {
   color: white;
@@ -12,19 +12,14 @@ a:visited {
   color: blue;
 }  
 
-div { display: flex;
-align-items: flex-start;
+div { 
+  display: flex;
+flex-direction: row;
   background-color: black;
+  flex-wrap: wrap;
 }
 
-ul {
+image {
   display: flex;
   flex-direction: row;
-  width: 450px;
-  height: 450px;
-justify-content: space-evenly;
-}
-
-footer {display: flex;
-align-items: flex-start;
 }
