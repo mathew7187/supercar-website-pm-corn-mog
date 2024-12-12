@@ -24,8 +24,8 @@ background-color: #ddd;
 color: darkblue;
 }
 .topnav a.active {
-background-color: red;
-color: white;
+ background-color: rgba(131, 22, 25, 1);
+  color: white;
 }
 
 nav {
@@ -43,9 +43,14 @@ color: blue;
 }  
 
 div { 
-display: flex;  
-flex-direction: row;
-background-color: black;
-flex-wrap: wrap;
-align-items: center;
+  display: flex;  
+  flex-direction: row;
+  background-color: black;
+  flex-wrap: wrap;
+justify-content: center;
+}
+
+p {
+  line-height: 1.5;
+
 }
