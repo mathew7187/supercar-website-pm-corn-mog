@@ -45,3 +45,16 @@
     padding: 2rem;
 }
 
+.Home_hero {
+    margin: 50px 6px;
+    height: 400px;
+}
+
+.top {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.img {
+    
+}
