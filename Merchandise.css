@@ -24,7 +24,7 @@
   color: darkblue;
 }
 .topnav a.active {
-  background-color: red;
+  background-color: #831619;
   color: white;
 }
 
@@ -44,7 +44,7 @@ a:visited {
 
 div { 
   display: flex;  
-flex-direction: row;
+  flex-direction: row;
   background-color: black;
   flex-wrap: wrap;
   align-items: center;
