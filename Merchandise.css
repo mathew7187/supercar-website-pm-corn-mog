@@ -24,7 +24,7 @@ background-color: #ddd;
 color: darkblue;
 }
 .topnav a.active {
-  background-color: #831619;
+ background-color: rgba(131, 22, 25, 1);
   color: white;
 }
 
@@ -47,5 +47,10 @@ div {
   flex-direction: row;
   background-color: black;
   flex-wrap: wrap;
-  align-items: center;
+justify-content: center;
+}
+
+p {
+  line-height: 1.5;
+
 }
