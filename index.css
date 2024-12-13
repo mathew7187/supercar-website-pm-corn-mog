@@ -56,5 +56,10 @@
 }
 
 .img {
-    
+    flex-flow: column
+}
+
+.top2 {
+    display: flex;
+    flex-flow: row wrap;
 }
