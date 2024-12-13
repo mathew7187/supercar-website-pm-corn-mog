@@ -52,5 +52,8 @@ justify-content: center;
 
 p {
   line-height: 1.5;
+}
 
+.logo {
+  background: none;
 }
