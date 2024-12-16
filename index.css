@@ -55,3 +55,63 @@
     flex-flow: row wrap;
 }
 
+<<<<<<< HEAD
+=======
+.img {
+    flex-flow: column
+}
+
+.top2 {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.button1 {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 2rem;
+    display: inline-block;
+    font-size: 88px;
+    margin: 50px 6px;
+    cursor: pointer;
+    height: 400px;
+  }
+
+.button1 {background-color:#831619;}
+
+.button2 {
+    border: none;
+    color: white;
+    padding: 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 2rem;
+    display: inline-block;
+    font-size: 120px;
+    margin:40px 10px;
+    cursor: pointer;
+    height: 400px;
+  }
+
+.button2 {background-color:#831619;}
+
+.redcar {
+    border: none;
+    color: black;
+    padding: 0px 65px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 2rem;
+    display: inline-block;
+    font-size: 34px;
+    margin: 0px 200px;
+    cursor: pointer;
+    height: 200px;
+    
+  }
+
+.redcar {background-color:white;}
+>>>>>>> 492576c76fa061bf143e1febb49fe7a15499ea33
