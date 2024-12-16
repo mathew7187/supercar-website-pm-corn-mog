@@ -55,8 +55,6 @@
     flex-flow: row wrap;
 }
 
-<<<<<<< HEAD
-=======
 .img {
     flex-flow: column
 }
@@ -114,4 +112,4 @@
   }
 
 .redcar {background-color:white;}
->>>>>>> 492576c76fa061bf143e1febb49fe7a15499ea33
+
