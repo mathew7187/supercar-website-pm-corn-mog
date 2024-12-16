@@ -99,16 +99,47 @@
 .redcar {
     border: none;
     color: black;
-    padding: 0px 65px;
+    padding: 0px 60x;
     text-align: center;
     text-decoration: none;
     border-radius: 2rem;
     display: inline-block;
-    font-size: 34px;
+    font-size: 31px;
     margin: 0px 200px;
     cursor: pointer;
-    height: 200px;
-    
+    height: 150px;
+    margin-left: 5px;
+    width: 1600px;
+    font-family: genos;
   }
 
 .redcar {background-color:white;}
+
+.aredcar {
+    margin-left: 1555px;
+    margin-top: -200px;
+    height: 200px;
+}
+
+.abluecar {
+    margin-top: 20px;
+    margin-right: 1200px;
+    height: 180px;
+}
+
+.bluecar {
+    border: none;
+    color: black;
+    padding: 0px 60x;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 2rem;
+    display: inline-block;
+    font-size: 31px;
+    margin: -200px 200px;
+    cursor: pointer;
+    height: 150px;
+    margin-left: 200px;
+    width: 1600px;
+    font-family: genos;
+}
